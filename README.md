@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="heart-hsr.gif" width="200" style="border-radius: 10px; margin-bottom: 20px;" />
+  <img src="https://home.gamer.com.tw/artwork.php?sn=6084634" width="200" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
 
 <!-- <h1 align="center">Hi there, I'm <a href="https://github.com/korozet1">korozet1</a> 👋</h1> -->
